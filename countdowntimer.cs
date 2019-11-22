@@ -27,7 +27,7 @@ namespace countdowntimer
                 
             }
             
-                Console.Write("All you saved passwords on this machine have been uploaded to my private site!");
+                Console.Write("All your saved passwords on this machine have been uploaded to my private site!");
         }
     }
 }
