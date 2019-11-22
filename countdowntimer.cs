@@ -13,13 +13,13 @@ namespace countdowntimer
                 Console.Clear();
             }
             
-                Console.Write("Hacking status at 10 percent");
+                Console.Write("Hacking status at 10%");
                  System.Threading.Thread.Sleep(1000);
                  Console.Clear();
-                Console.Write("Hacking status at 35 percent");
+                Console.Write("Hacking status at 35%");
                  System.Threading.Thread.Sleep(1000);
                  Console.Clear();
-                Console.Write("Hacking status at 95 percent");
+                Console.Write("Hacking status at 95%");
                 System.Threading.Thread.Sleep(1000);
                 Console.Clear();
                 Console.Write("All your saved passwords on this machine have been uploaded to my private site!");
