@@ -12,8 +12,6 @@ namespace countdowntimer
                 System.Threading.Thread.Sleep(1000);
                 Console.Clear();
             }
-            
-            for (int a = 0; a >= 0; a--)
             {
                 Console.Write("Hacking status at 10 percent");
                  System.Threading.Thread.Sleep(1000);
