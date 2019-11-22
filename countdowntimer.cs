@@ -12,6 +12,8 @@ namespace countdowntimer
                 System.Threading.Thread.Sleep(1000);
                 Console.Clear();
             }
-        }
+      
+        Console.Write ("BOOM!");
     }
-}  
+  }
+}
